@@ -34,19 +34,6 @@ I'm a Master's student in **Artificial Intelligence** at Brandenburg University 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BadassAman4014&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BadassAman4014&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BadassAman4014&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🎓 Education
-
-**Master of Science in Artificial Intelligence** (2025 - Present)  
-Brandenburg University of Technology, Cottbus, Germany
-
-**Bachelor of Technology in AI & Data Science** (2021 - 2025)  
-Yeshwantrao Chavan College of Engineering, Nagpur, India
-
 
 ## 💡 Current Focus
 
