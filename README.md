@@ -45,9 +45,6 @@ I'm a Master's student in **Artificial Intelligence** at Brandenburg University 
 ![](https://nirzak-streak-stats.vercel.app/?user=BadassAman4014&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BadassAman4014&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=BadassAman4014&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 🎓 Education
 
 **Master of Science in Artificial Intelligence** (2025 - Present)  
@@ -85,3 +82,5 @@ I'm always interested in discussing AI, robotics, and innovative projects. Feel 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
+---
+[![](https://visitcount.itsvg.in/api?id=BadassAman4014&icon=0&color=0)](https://visitcount.itsvg.in)
