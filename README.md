@@ -40,41 +40,14 @@ I'm a Master's student in **Artificial Intelligence** at Brandenburg University 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-## 🔥 Featured Projects
-
-### 🏥 [Multimodal Wound Classification System](https://github.com/yourusername/wound-classification)
-Developed RGB-LiDAR fusion system for automated medical diagnostics achieving significant accuracy improvements. **Patent Pending** (202421088752 A)
-- **Tech**: PyTorch, Point Cloud Processing, Sensor Fusion
-- **Impact**: Clinical validation underway for production deployment
-
-### 🚗 [Road Safety Analytics Platform](https://github.com/yourusername/road-safety)
-Won 1st place among 4,500+ teams at Karnataka State Police Hackathon
-- **Tech**: Geospatial Clustering, CNN, Time-Series Forecasting, Streamlit
-- **Results**: 88% blackspot prediction accuracy, deployed for real-world stakeholder use
-
-### 🌾 [GrowCode - IoT Smart Agriculture](https://github.com/yourusername/growcode)
-1st place at Smart India Hackathon 2024 among top 5 international finalists
-- **Tech**: ESP32, MQTT, TensorFlow, Firebase, Gemini API
-- **Features**: Real-time soil monitoring, ML-powered crop recommendations
-
-### 🤖 [GeoHelper - Autonomous Navigation System](https://github.com/yourusername/geohelper)
-ESP32-based autonomous robot with aerial computer vision
-- **Tech**: CNN, Real-time Path Planning, Embedded C
-- **Performance**: 96% classification accuracy (12% improvement over VGG19)
-
-### 🚴 [Self-Balancing Delivery Robot](https://github.com/yourusername/balancing-robot)
-Two-wheeled autonomous delivery system with advanced control theory
-- **Tech**: LQR Control, Euler-Lagrange Dynamics, CoppeliaSim
-- **Features**: OTA firmware updates, dynamic task prioritization
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BadassAman4014&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BadassAman4014&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 🎓 Education
