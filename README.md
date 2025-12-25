@@ -1,6 +1,6 @@
 # Hi there, I'm Aman Raut 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)]([YOUR_PORTFOLIO_URL](https://badassaman4014.github.io/Portfolio-Website/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanraut8263@gmail.com)
 
@@ -75,8 +75,8 @@ Yeshwantrao Chavan College of Engineering, Nagpur, India
 I'm always interested in discussing AI, robotics, and innovative projects. Feel free to reach out!
 
 - 📧 Email: amanraut8263@gmail.com
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
-- 🌐 Portfolio: [Visit my website](YOUR_PORTFOLIO_URL)
+- 💼 LinkedIn: [Connect with me]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/aman-raut-663484246/))
+- 🌐 Portfolio: [Visit my website]([YOUR_PORTFOLIO_URL](https://badassaman4014.github.io/Portfolio-Website/))
 
 ---
 
