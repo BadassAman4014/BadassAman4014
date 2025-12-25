@@ -43,7 +43,7 @@ I'm a Master's student in **Artificial Intelligence** at Brandenburg University 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BadassAman4014&show_icons=true&theme=radical" alt="GitHub Stats" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="center">
