@@ -8,12 +8,6 @@
 
 I'm a Master's student in **Artificial Intelligence** at Brandenburg University of Technology, Cottbus, with a passion for building intelligent systems that bridge the gap between hardware and software. My work spans **Deep Learning**, **Computer Vision**, **Robotics**, and **IoT Systems**.
 
-- 🔬 **Research Assistant** developing multimodal sensor fusion systems for medical diagnostics (Patent Application No. 202421088752 A)
-- 🏆 **2x National Hackathon Winner** - Smart India Hackathon (2024, 2022) and Karnataka State Police Hackathon (2024)
-- 🤖 Specialized in **CNN architectures**, **embedded systems**, and **production ML pipelines**
-- 🌱 Currently exploring advanced robotics and autonomous systems
-- 📍 Based in Cottbus, Germany
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -53,10 +47,6 @@ Brandenburg University of Technology, Cottbus, Germany
 **Bachelor of Technology in AI & Data Science** (2021 - 2025)  
 Yeshwantrao Chavan College of Engineering, Nagpur, India
 
-## 📜 Certifications
-
-- **NVIDIA**: Fundamentals of Accelerated Computing with CUDA C/C++
-- **NVIDIA**: Fundamentals of Accelerated Computing with CUDA Python
 
 ## 💡 Current Focus
 
