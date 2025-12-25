@@ -82,5 +82,3 @@ I'm always interested in discussing AI, robotics, and innovative projects. Feel 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
----
-[![](https://visitcount.itsvg.in/api?id=BadassAman4014&icon=0&color=0)](https://visitcount.itsvg.in)
